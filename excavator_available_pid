@@ -1,0 +1,31 @@
+
+Volvo excavator available data 
+
+PID   Description
+
+60 :  Fuel Level
+BE :  Engine Speed
+5C :  Percent Engine Load
+6E :  Engine Coolant Temperature
+AF :  Engine Oil Temperature
+9E :  Instantaneous Fuel Economy (Natural Gas)
+69 :  Intake Manifold Temperature
+B7 :  Fuel Rate (Instantaneous)
+66 :  Boost Pressure
+2C :  Attention/Warning Indicator Lamps Status 
+6c :  Barometric Pressure
+AC :  Air Inlet Temperature
+64 :  Engine Oil Pressure	
+5E :  Fuel Delivery Pressure
+2D :  Inlet Air Heater Status
+c2 :  Transmitter System Diagnostic Code and Occurrence Count Table 
+F7 :  Total Engine Hours
+80 :  Component Specific Parameter Request
+54 :  Road Speed
+5B :  Percent Accelerator Pedal Position
+
+
+
+
+
+
